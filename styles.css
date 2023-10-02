@@ -2068,6 +2068,11 @@ textarea.w-select {
   outline: 0;
 }
 
+.custom-icon-nav-menu {
+  width: 24px;
+  height: 24px;
+}
+
 .w-nav-button.w--open {
   color: #fff;
   background-color: #c8c8c8;
